@@ -1,6 +1,7 @@
-<<<<<<< HEAD
 # Buy-Event-Ticket-as-NFT-using-Solana-Pay
-=======
+
+[Documentation](https://docs.google.com/document/d/1Bl1ykYO4naWem_fesfcaqLm7UnxQw4fa/edit)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -71,4 +72,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
->>>>>>> dc41955... Initialize project using Create React App
